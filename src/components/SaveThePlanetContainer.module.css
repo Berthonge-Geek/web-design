@@ -1,0 +1,147 @@
+.letsSave {
+  margin: 0;
+}
+.letsSaveTheContainer {
+  position: absolute;
+  height: 39.17%;
+  width: 100%;
+  top: 60.83%;
+  left: 0;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.frame2,
+.home {
+  position: absolute;
+}
+.frame2 {
+  top: 0;
+  left: 701px;
+  width: 421px;
+  height: 470.2px;
+  overflow: hidden;
+  font-size: 64px;
+  color: #077923;
+}
+.home {
+  top: 83px;
+  left: 0;
+}
+.frame3,
+.frame4,
+.frame5,
+.frame6 {
+  position: absolute;
+  top: 0;
+  left: 900.7px;
+  width: 45px;
+  height: 100px;
+  overflow: hidden;
+}
+.frame4,
+.frame5,
+.frame6 {
+  left: 1073.7px;
+  width: 64px;
+}
+.frame5,
+.frame6 {
+  left: 1170.7px;
+  width: 56px;
+}
+.frame6 {
+  left: 986.7px;
+  width: 46px;
+}
+.viewMore {
+  position: absolute;
+  top: 16px;
+  left: 52px;
+  font-weight: 500;
+}
+.frame7,
+.viewMoreWrapper {
+  position: absolute;
+  width: 180px;
+}
+.viewMoreWrapper {
+  top: 601px;
+  left: 0;
+  border-radius: 24px;
+  background-color: #077923;
+  height: 48px;
+}
+.frame7 {
+  top: 0;
+  left: 696.7px;
+  height: 649px;
+  overflow: hidden;
+  color: #fff;
+}
+.loremIpsumDolor {
+  position: absolute;
+  top: 461px;
+  left: 0;
+  display: inline-block;
+  width: 534px;
+  height: 138px;
+}
+.frame8,
+.frameIcon,
+.frameIcon1 {
+  position: absolute;
+  top: 0;
+  overflow: hidden;
+}
+.frame8 {
+  left: 700.7px;
+  width: 534px;
+  height: 599px;
+  font-size: 15px;
+}
+.frameIcon,
+.frameIcon1 {
+  left: 156.7px;
+  width: 50px;
+  height: 117px;
+}
+.frameIcon1 {
+  left: 1037px;
+  width: 10px;
+  height: 97px;
+}
+.frame,
+.frame1,
+.frame9,
+.icon {
+  position: absolute;
+  width: 1191px;
+}
+.icon {
+  top: 160px;
+  left: 0;
+  height: 739px;
+  object-fit: cover;
+}
+.frame,
+.frame1,
+.frame9 {
+  top: 0;
+  left: 9px;
+  height: 899px;
+  overflow: hidden;
+}
+.frame,
+.frame1 {
+  left: 0;
+  width: 1373.7px;
+  height: 900.8px;
+}
+.frame {
+  left: -9px;
+  width: 1384px;
+  text-align: left;
+  font-size: 14px;
+  color: #000;
+  font-family: Montserrat;
+}

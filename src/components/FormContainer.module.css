@@ -1,0 +1,227 @@
+.frame2,
+.image2Icon {
+  position: absolute;
+  height: 1189px;
+}
+.image2Icon {
+  top: 0;
+  left: 48.3px;
+  width: 1251px;
+  object-fit: cover;
+}
+.frame2 {
+  top: 1079px;
+  left: 0;
+  width: 1299.3px;
+  overflow: hidden;
+}
+.loremIpsum {
+  position: absolute;
+  height: 100%;
+  width: 40.77%;
+  top: 0;
+  left: 59.23%;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.frame3 {
+  position: absolute;
+  top: 564px;
+  left: 0;
+  width: 1226.3px;
+  height: 77px;
+  overflow: hidden;
+  font-size: 64px;
+  color: #5e6f3c;
+}
+.articles {
+  position: absolute;
+  top: 0;
+  left: calc(50% + 263.15px);
+}
+.frame4,
+.frameIcon {
+  position: absolute;
+  overflow: hidden;
+}
+.frame4 {
+  top: 154px;
+  left: 0;
+  width: 734.3px;
+  height: 32px;
+  text-align: center;
+  font-size: 26px;
+  color: #077923;
+}
+.frameIcon {
+  top: 0;
+  left: 1px;
+  width: 45px;
+  height: 60px;
+}
+.copyright {
+  position: absolute;
+  top: 79.8%;
+  left: 0;
+  line-height: 140.63%;
+}
+.frame5,
+.frameParent {
+  position: absolute;
+  top: 0;
+  left: 247.3px;
+  width: 46px;
+  height: 99px;
+}
+.frame5 {
+  top: 2177px;
+  left: 0;
+  width: 293.3px;
+  overflow: hidden;
+  font-family: Roboto;
+}
+.subtitle,
+.subtitle2,
+.subtitle3 {
+  position: absolute;
+  top: 0;
+  left: 28.36%;
+  line-height: 140.63%;
+}
+.subtitle2,
+.subtitle3 {
+  left: 59.87%;
+}
+.subtitle3 {
+  left: 90.22%;
+}
+.frame6,
+.subtitleParent {
+  position: absolute;
+  top: 0;
+  left: 526.3px;
+  width: 603px;
+  height: 20px;
+}
+.frame6 {
+  top: 2178px;
+  left: 0;
+  width: 1129.3px;
+  overflow: hidden;
+}
+.link,
+.link1,
+.link2,
+.link3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 140.63%;
+}
+.link1,
+.link2,
+.link3 {
+  left: 29.72%;
+}
+.link2,
+.link3 {
+  left: 57.43%;
+}
+.link3 {
+  left: 86.07%;
+}
+.frame8 {
+  top: 0;
+  left: 0;
+  height: 20px;
+  overflow: hidden;
+}
+.frame8,
+.frame9,
+.frameGroup {
+  position: absolute;
+  width: 646px;
+}
+.frame9 {
+  top: 34px;
+  left: 0;
+  height: 20px;
+  overflow: hidden;
+}
+.frameGroup {
+  top: 0;
+  left: 499.3px;
+  height: 54px;
+}
+.frame7 {
+  top: 2225px;
+  left: 0;
+  width: 1145.3px;
+  height: 54px;
+}
+.frame10,
+.frame7,
+.frameIcon1 {
+  position: absolute;
+  overflow: hidden;
+}
+.frameIcon1 {
+  height: 100%;
+  width: 78.43%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 21.57%;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.frame10 {
+  top: 408px;
+  left: 0;
+  width: 692.3px;
+  height: 515px;
+}
+.letsDiscover {
+  position: absolute;
+  top: 16px;
+  left: 42px;
+  font-weight: 500;
+}
+.letsDiscoverWrapper {
+  position: absolute;
+  top: 0;
+  left: 886.3px;
+  border-radius: 24px;
+  background-color: #077923;
+  width: 180px;
+  height: 48px;
+}
+.frame,
+.frame1,
+.frame11 {
+  position: absolute;
+  left: 0;
+  overflow: hidden;
+}
+.frame11 {
+  top: 666px;
+  width: 1066.3px;
+  height: 48px;
+  color: #fff;
+}
+.frame,
+.frame1 {
+  top: 0;
+  width: 1364px;
+  height: 2279px;
+}
+.frame {
+  top: 1475px;
+  left: -0.3px;
+  width: 1366.7px;
+  text-align: left;
+  font-size: 14px;
+  color: #000;
+  font-family: Montserrat;
+}
